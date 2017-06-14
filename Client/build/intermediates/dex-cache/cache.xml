@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/sylar/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.6.0/48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8/butterknife-annotations-8.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8">
+        <dex dex="/home/sylar/projects/Lab6/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.6.0_e148393366884b7000ef5bd6ec84d8f4e2fb80bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/sylar/.android/build-cache/88543a850a488c966df43042e3cfb78aeb1e75f1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="be587097e648eabfb7f9eca23ab03369894e2d5d">
+        <dex dex="/home/sylar/projects/Lab6/app/build/intermediates/pre-dexed/debug/classes_d617206959a04d36a2fc4fb514d5bc49ff17ba98.jar" />
+    </item>
+
+</items>
